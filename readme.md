@@ -1,5 +1,9 @@
 #Training: Express Routing Practice
 
+### Reflections
+
+The first pass at new major concepts like this is very challenging for me. I spent the first 45 minutes trying the training and running into barriers where I was confused or not understanding. So I then went and read through the solutions. Then I went back to the WDI lessons to refresh my memory, especially on AJAX. Then I read through the express documentation to try to understand more. Then I went back to the starter code and tried to include more pieces that I remembered. 
+
 ### Deliverable
 
 1. When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment at the top of the document.
